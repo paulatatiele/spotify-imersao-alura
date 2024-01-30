@@ -1,4 +1,4 @@
-const searchInput = document.getElementById('search-input');
+const searchInput = document.getElementById('search-input'); //DOM
 const resultsArtist = document.getElementById('result-artist');
 const resultPlaylist  = document.getElementById('result-playlists');
 
